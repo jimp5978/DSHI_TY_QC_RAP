@@ -1,0 +1,59 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# User directories
+AppData/
+Documents/
+Downloads/
+Pictures/
+Videos/
+Music/
+Desktop/
+OneDrive/
+3D Objects/
+Contacts/
+Favorites/
+Links/
+Saved Games/
+Searches/
+
+# System files
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+migrated
+
+# IDE and tools
+.vscode/
+.claude/
+.cache/
+.config/
+.qt-license
+.swt/
+.idlerc/
+.ipython/
+.mcp-scan/
+.designer/
+.wslconfig.txt
+
+# Git config
+.gitconfig
+
+# Test directories
+test-*/
+github-mcp-server/
+**/내 드라이브/
+
+# Windows shortcuts and system links
+*.lnk
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Templates/
+시작 메뉴/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
